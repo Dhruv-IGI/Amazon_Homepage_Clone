@@ -1,6 +1,6 @@
 # Amazon Home Page Clone
 
-This project is a clone of the Amazon home page, created by [Your Name]. The purpose of this project is to demonstrate proficiency in HTML and CSS by replicating the visual design and layout of the Amazon home page.
+This project is a clone of the Amazon home paage. The purpose of this project is to demonstrate proficiency in HTML and CSS by replicating the visual design and layout of the Amazon home page.
 
 ## Table of Contents
 
@@ -45,8 +45,8 @@ Open the `index.html` file in a web browser to view the Amazon home page clone. 
 - CSS3
 
 ## Screenshots
+![image](https://github.com/Dhruv-IGI/Amazon_Homepage_Clone/assets/83370198/8e7e008b-56d6-4051-8941-870cdf74433c)
 
-Include screenshots of the Amazon home page clone to provide a visual representation of your project.
 
 ## Contributing
 
@@ -58,8 +58,5 @@ If you would like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
 
 ---
